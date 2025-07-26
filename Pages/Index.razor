@@ -1,0 +1,15 @@
+@page "/"
+@inject IJSRuntime JS
+
+<h3>Real-Time Sensor Dashboard</h3>
+<canvas id="sensorChart" width="800" height="400"></canvas>
+
+@code {
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await JS.InvokeVoidAsync("initChart");
+        }
+    }
+}
