@@ -53,3 +53,4 @@
 /Users/reveal/Documents/SensorDashboard/obj/Debug/net9.0/SensorDashboard.pdb
 /Users/reveal/Documents/SensorDashboard/obj/Debug/net9.0/SensorDashboard.genruntimeconfig.cache
 /Users/reveal/Documents/SensorDashboard/obj/Debug/net9.0/ref/SensorDashboard.dll
+/Users/reveal/Documents/SensorDashboard/obj/Debug/net9.0/SensorDashboard.sourcelink.json
