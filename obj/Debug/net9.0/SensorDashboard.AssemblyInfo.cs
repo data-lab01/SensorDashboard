@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SensorDashboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b33cca941e9b94cb6254871154dcffbc5356c1b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a00c37470c9cde5307bdd19d6ece43e1a90dd8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SensorDashboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SensorDashboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
