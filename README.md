@@ -1,4 +1,4 @@
-<img width="2004" height="1053" alt="image" src="https://github.com/user-attachments/assets/720e8f88-fea6-401f-9a09-9df14b5ce663" />
+<img width="1507" height="965" alt="image" src="https://github.com/user-attachments/assets/c3d5985e-b9e2-4137-a625-562812b56469" />
 
 
 # SensorDashboard
